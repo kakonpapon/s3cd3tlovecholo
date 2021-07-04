@@ -1,6 +1,17 @@
- print(""  /~~|  | /~~\ |  /~~\   ~|~|~~\  /~~\ |  /~~\   |~~\ |~~  /~~\/~\ /~~|~~\/~\~~|~~
-|   |--||    || |    |   | |   ||    || |    |  |   ||--  '--.  <|   |   | <  |  
- \__|  | \__/ |__\__/   _|_|__/  \__/ |__\__/   |__/ |__  \__/\_/ \__|__/\_/  |  
-                                                                                 
-                                        
-"") 
+print("""                                                                   ;                                            
+                           :                     :                ED.              :                     :     
+        .,                t#,                   t#,               E#Wi            t#,                   t#,    
+       ,Wt .    .        ;##W.             i   ;##W.          t   E###G.         ;##W.             i   ;##W.   
+      i#D. Di   Dt      :#L:WE            LE  :#L:WE          Ej  E#fD#W;       :#L:WE            LE  :#L:WE   
+     f#f   E#i  E#i    .KG  ,#D          L#E .KG  ,#D         E#, E#t t##L     .KG  ,#D          L#E .KG  ,#D  
+   .D#i    E#t  E#t    EE    ;#f        G#W. EE    ;#f        E#t E#t  .E#K,   EE    ;#f        G#W. EE    ;#f 
+  :KW,     E#t  E#t   f#.     t#i      D#K. f#.     t#i       E#t E#t    j##f f#.     t#i      D#K. f#.     t#i
+  t#f      E########f.:#G     GK      E#K.  :#G     GK        E#t E#t    :E#K::#G     GK      E#K.  :#G     GK 
+   ;#G     E#j..K#j... ;#L   LW.    .E#E.    ;#L   LW.        E#t E#t   t##L   ;#L   LW.    .E#E.    ;#L   LW. 
+    :KE.   E#t  E#t     t#f f#:    .K#E       t#f f#:         E#t E#t .D#W;     t#f f#:    .K#E       t#f f#:  
+     .DW:  E#t  E#t      f#D#;    .K#D         f#D#;          E#t E#tiW#G.       f#D#;    .K#D         f#D#;   
+       L#, f#t  f#t       G#t    .W#G           G#t           E#t E#K##i          G#t    .W#G           G#t    
+        jt  ii   ii        t    :W##########Wt   t            E#t E##D.            t    :W##########Wt   t     
+                                :,,,,,,,,,,,,,.               ,;. E#t                   :,,,,,,,,,,,,,.        
+                                                                  L:                                           
+""")
